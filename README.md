@@ -14,3 +14,6 @@ I never knew that so many things are going inside a terminal and handling those 
 
 #### Day 3:
 I have known about escape characters for a long time but never how computers interpret them and how they can be used to make escape sequences. While making I realize what all I do not know the computer, its intrecacies.
+
+#### Day 4:
+Today I implemented buffer. Rather using `write()` everytime we replaced it with buffer.
